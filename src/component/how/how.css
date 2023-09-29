@@ -1,0 +1,124 @@
+.how{
+    background-color: #141416;
+    height: 800px;
+
+
+
+}
+
+.work{
+    width: auto;
+    padding: 0px, 160px, 0px, 160px;
+    gap: 40px;
+    margin-right: 200px;
+}
+.workP{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:  #FCFCFD;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 200px;
+}
+.workLogo{
+    width: auto;
+    height: 64px;
+    margin-left: 85px;
+    margin-top: 30px;
+    padding-left: 70px;
+
+}
+.howWork{
+    width: auto;
+    height: 600px;
+    padding-top: 136px;
+    padding-right:  160px;
+    margin-bottom: 136px;
+    margin-left: 160px;
+    gap: 10px;
+}
+.howCan{
+    width: auto;
+    height: 528px;
+    margin: 80px;   
+}
+.howText{
+    width: auto;
+    height:  124px;
+    margin-bottom: 20px;
+}
+.hHeader{
+    font-family: SF Pro Display;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #FCFCFD;
+}
+.hPara{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #E6E8EC;
+    margin-top: 20px;
+}
+.howIcons{
+    width:  auto;
+    height: 80px;
+    margin-right: 50px;
+    margin-top: 80px;
+}
+.howI{
+    font-size: 80px;
+    width: 1200px;
+
+
+}
+
+.howItext{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-left: 25px;
+}
+.howP{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#777E90;
+    text-align: center;
+    margin: 32px;
+
+}
+.howP2{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:  #FCFCFD;
+
+}
+.howP3{
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 15px;
+    color:  #E6E8EC;
+    
+    
+
+}
